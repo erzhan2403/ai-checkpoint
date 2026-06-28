@@ -1,4 +1,4 @@
-# 🧭 AI Checkpoint
+# 🧭 AI Checkpoint ![AI Checkpoint](banner.png)
 
 **Never lose your project context when switching AI chats again.**
 
