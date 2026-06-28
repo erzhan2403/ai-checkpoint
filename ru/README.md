@@ -1,4 +1,4 @@
-# 🧭 AI Checkpoint
+# 🧭 AI Checkpoint ![AI Checkpoint](banner.png)
 
 **Больше не теряй контекст проекта при переходе в новый AI-чат.**
 
